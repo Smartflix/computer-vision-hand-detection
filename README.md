@@ -1,3 +1,3 @@
 # computer-vision-hand-detection
-this project will be able to detect the hands and draw lines on it
-the project will detect the nand ,face and also smile
+This project will be able to detect the hands and draw lines on it
+The project will detect the hand ,face and also smile
